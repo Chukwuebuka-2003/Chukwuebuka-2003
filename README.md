@@ -1,4 +1,4 @@
-Hi 👋 My name is Chukwuebuka Ezeokeke
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chukwuebuka Ezeokeke
 =====================================
 
 * 🌍  I'm based in Enugu, Nigeria
@@ -7,6 +7,11 @@ Hi 👋 My name is Chukwuebuka Ezeokeke
 * 🧠  I'm learning Data Science and MLOps
 * 🤝  I'm open to collaborating on Data Science projects
 * ⚡  I love watching documentaries on Netflix
+
+### Background
+As a Computer Science with Statistics undergraduate student at the University of Nigeria, I am passionate about exploring the field of data science and its practical applications. 
+With my knowledge of programming languages, statistical methods, and machine learning algorithms, I have worked on various data science projects such as predicting stock prices, analyzing social media sentiment, and developing recommendation systems. 
+I have acquired skills in data wrangling, data visualization, and machine learning, and I understand the importance of communication and collaboration in the field. My goal is to contribute my skills to real-world projects and stay updated with the latest developments in the industry. If you are interested in discussing potential opportunities or collaborations, please do not hesitate to reach out to me
 
 <a href="https://www.github.com/Chukwuebuka-2003" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Chukwuebuka-2003?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/ebukagaus" target="_blank" rel="noreferrer"><img
