@@ -1,18 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chukwuebuka Ezeokeke
 =====================================
 
-* 🌍  I'm based in Remote, Nigeria 
-* 🖥️  See my portfolio at [My Portfolio](http://mainstack.me/gausoctavio)
+* 🌍  I'm based Remote
 * 🖥️  I do write about data science, python and macine learning at [Medium Blog](http://www.medium.com/@ebulamicheal)
 * ✉️  You can contact me at [ebulamicheal@gmail.com](mailto:ebulamicheal@gmail.com)
 * 🧠  I'm a Data Scientist and I am currently learning Rust/Blockchain
 * 🤝  I'm open to collaborating on Data Science projects
-* ⚡  I love watching documentaries on Netflix
+* ⚡  I love watching documentaries on Netflix and working on open source projectd
 
 ### Background
-As a Computer Science with Statistics undergraduate student at the University of Nigeria, I am passionate about exploring the field of data science and its practical applications. 
 With my knowledge of programming languages, statistical methods, and machine learning algorithms, I have worked on various data science projects such as predicting stock prices, analyzing social media sentiment, and developing recommendation systems. 
-I have acquired skills in data wrangling, data visualization, and machine learning, and I understand the importance of communication and collaboration in the field. My goal is to contribute my skills to real-world projects and stay updated with the latest developments in the industry. 
+I have acquired skills in data wrangling, data visualization, and machine learning, and I understand the importance of communication and collaboration in the field. 
+
+My goal is to contribute my skills to real-world projects and stay updated with the latest developments in the industry. 
 
 If you have any questions or just want to chat about DS/ML/AI or Rust and open source development, don't hesitate to reach out! I'm always happy to connect with like-minded developers and collaborate on new ideas.
 
