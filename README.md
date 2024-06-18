@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [ebulamicheal@gmail.com](mailto:ebulamicheal@gmail.com)
 * 🧠  I'm a Data Scientist and I am currently learning Rust/Blockchain
 * 🤝  I'm open to collaborating on Data Science projects
-* ⚡  I love watching documentaries on Netflix and working on open source projectd
+* ⚡  I love watching documentaries on Netflix and working on open source projects
 
 ### Background
 With my knowledge of programming languages, statistical methods, and machine learning algorithms, I have worked on various data science projects such as predicting stock prices, analyzing social media sentiment, and developing recommendation systems. 
