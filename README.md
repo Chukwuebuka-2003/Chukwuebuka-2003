@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based Remote
 * 🖥️  I do write about data science, python and macine learning at [Medium Blog](http://www.medium.com/@ebulamicheal)
 * ✉️  You can contact me at [ebulamicheal@gmail.com](mailto:ebulamicheal@gmail.com)
-* 🧠  I'm a Data Scientist and I am currently learning Rust/Blockchain
+* 🧠  I'm a Data Scientist and I am currently learning Rust/Blockchain...currentrly building cool stuffs
 * 🤝  I'm open to collaborating on Data Science projects
 * ⚡  I love watching documentaries on Netflix and working on open source projects
 
