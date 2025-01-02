@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chukwuebuka Ezeokeke
+I am Chukwuebuka Ezeokeke
 =====================================
 
 * 🌍  I'm based Remote
 * 🖥️  I do write about data science, python and macine learning at [Medium Blog](http://www.medium.com/@ebulamicheal)
 * ✉️  You can contact me at [ebulamicheal@gmail.com](mailto:ebulamicheal@gmail.com)
-* 🧠  I'm a Data Scientist and I am currently learning Rust/Blockchain...currentrly building cool stuffs
-* 🤝  I'm open to collaborating on Data Science projects
+* 🧠  I'm a Data Scientist and I am currently learning Rust/Blockchain...always building cool stuffs
+* 🤝  I'm open to collaborating on Data Science, GenAI and ML projects
 * ⚡  I love watching documentaries on Netflix and working on open source projects
 
 # 💻 Tech Stack:
