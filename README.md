@@ -2,7 +2,7 @@
 
 Data Scientist | Remote | [ebulamicheal@gmail.com](mailto:ebulamicheal@gmail.com)
 
-Full-time professional in GenAI and ML. Working on Rust/Blockchain projects. Open to collaborations.
+Full-time professional in GenAI and ML. Working on Rust/Blockchain projects. Open to collaborations, jobs and founding engineer roles.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chukwuebuka-2003&color=blueviolet)
 
